@@ -1,0 +1,6 @@
+jupyter
+torch
+transformers
+pytest
+wandb
+mypy
